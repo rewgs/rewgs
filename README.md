@@ -1,6 +1,6 @@
-Hi, I'm Alex Ruger, a composer-turned-developer and technical consultant focused on making the experience of making music on a computer suck less.
+Hi, I'm Alex Ruger, a composer-turned-developer and technical consultant for musicians.
 
-Interested in Linux, Python, Go, ReaperDAW.
+Interested in Linux, Python, Go, ReaperDAW. Focused on making the experience of making music on a computer suck less.
 
 Working on:
 * `cpm`: Cubase preferences manager
@@ -10,6 +10,10 @@ Working on:
 * `cue-queue`: cross-platform solution for automated stem-printing
 * `ReaConform`: automates conforming cues to new picture
 * `zdash`: cli dashboard for monitoring zfs; like `htop` for zfs, written in Go
+* `DAW Report`: crowd-sourced database for DAW/plugin/OS/etc version compatability and stability
+* `dpy`: Python library for interacting with Digital Performer's OSC API
+* `deepee`: A companion app for Digital Performer, utilizing `dpy` under the hood
+* `awks`: package and license manager for audio plugins
 
 Clients and credits include:
 * [Bear McCreary](https://bearmccreary.com/) and [Sparks & Shadows](https://sparksandshadows.com/)
