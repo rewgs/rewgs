@@ -9,7 +9,6 @@ Working on:
 * `ReaWrite`: generates a Python wrapper for the Reaper API from its source
 * `cue-queue`: cross-platform solution for automated stem-printing
 * `ReaConform`: automates conforming cues to new picture
-* `zdash`: cli dashboard for monitoring zfs; like `htop` for zfs, written in Go
 * `DAW Report`: crowd-sourced database for DAW/plugin/OS/etc version compatability and stability
 * `dpy`: Python library for interacting with Digital Performer's OSC API
 * `deepee`: A companion app for Digital Performer, utilizing `dpy` under the hood
