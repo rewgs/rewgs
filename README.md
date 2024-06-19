@@ -1,18 +1,18 @@
 Hi, I'm Alex Ruger, a composer-turned-developer and technical consultant for musicians.
 
-Interested in Linux, Python, Go, ReaperDAW. Focused on making the experience of making music on a computer suck less.
+I generally exist somewhere on the murky spectrum between "systems" programming, sysadmin/DevOps/SRE/etc, and back-end web dev. I'm particularly interested in Linux, Python, Go, and extending Reaper (the DAW). I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least part of the path that'll get us there.
 
-Working on:
-* `cpm`: Cubase preferences manager
-* `Reaify`: Lua library for the Reaper API
-* `ReaiPy`: Python library for the Reaper API
-* `ReaWrite`: generates a Python wrapper for the Reaper API from its source
-* `cue-queue`: cross-platform solution for automated stem-printing
-* `ReaConform`: automates conforming cues to new picture
-* `DAW Report`: crowd-sourced database for DAW/plugin/OS/etc version compatability and stability
-* `dpy`: Python library for interacting with Digital Performer's OSC API
-* `deepee`: A companion app for Digital Performer, utilizing `dpy` under the hood
-* `awks`: package and license manager for audio plugins
+# Currently working on:
+* `daws`: A package for working with any and all DAW to the maximum extent that the DAW offers. Underlies many of my other projects. Was previously written in Python, but I've since pivoted to Go.
+* `cpm`: Cubase preferences manager. Utilizes `daws` under the hood.
+* `Reaify`: Lua library for the Reaper API.
+* `ReaiPy`: Python library for the Reaper API.
+* `ReaWrite`: Generates a Python wrapper for the Reaper API from its source.
+* `Cue Queue`: A cross-platform, DAW-agnostic solution for automated stem-printing. Utilizes `daws` under the hood.
+* `ReaConform`: Automates conforming cues to new picture.
+* `DAW Report`: A crowd-sourced database for DAW/plugin/OS/etc version compatability and stability.
+* `deepee`: A companion app for Digital Performer. Utilizes `daws` under the hood.
+* `awx`: A package manager and license manager for audio plugins.
 
 Clients and credits include:
 * [Bear McCreary](https://bearmccreary.com/) and [Sparks & Shadows](https://sparksandshadows.com/)
