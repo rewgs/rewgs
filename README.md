@@ -1,6 +1,6 @@
 Hey there! I'm Alex Ruger, programmer and musician.
 
-I'm particularly interested in Linux, Go, Rust, and extending Reaper (the DAW). I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least *part* of the path that'll get us there.
+I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least *part* of the path that'll get us there.
 
 By day I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating our music production pipeline, building and maintaining our company infrastructure, web development, audio plugin and sample library development, and writing solid documentation for the whole of it.
 
