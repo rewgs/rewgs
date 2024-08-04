@@ -11,7 +11,7 @@ I have a number of projects in the works:
 * `ReaWrite`: Generates a Python wrapper for the Reaper API from its source.
 * `ReaConform`: Automates conforming cues to new picture.
 * `Cue Queue`: A cross-platform, DAW-agnostic solution for automated stem-printing. Utilizes `daws` under the hood.
-* `DAW Report`: A crowd-sourced database for DAW/plugin/OS/etc version compatability and stability.
+* `DAW Report`: A crowd-sourced database for DAW/plugin/OS/etc version compatability and stability reports.
 * `Sideman`: A companion app for Digital Performer. Utilizes `daws` under the hood.
 
 I'm also a freelance technical consultant, primarily serving composers, music editors, and anyone else who works in audio and needs some help.
