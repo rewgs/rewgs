@@ -1,10 +1,10 @@
-Hi, I'm Alex Ruger, a composer-turned-programmer.
+Hey there! I'm Alex Ruger, programmer and musician.
 
 I'm particularly interested in Linux, Go, Rust, and extending Reaper (the DAW). I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least *part* of the path that'll get us there.
 
-My day job is working for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating our music production pipeline, building and maintaining our company infrastructure, web development, audio plugin development, sample library development, and writing solid documentation for the whole of it. 
+By day I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating our music production pipeline, building and maintaining our company infrastructure, web development, audio plugin and sample library development, and writing solid documentation for the whole of it.
 
-I have a number of projects in the works:
+By night, I work on the number of projects I have in the works:
 
 * [`daws`](https://github.com/rewgs/daws): A Go package for working with any and all DAW to the maximum extent that the DAW offers. Still very much in progress.
 * [`Reaify`](https://github.com/rewgs/reaify): A Lua library for the Reaper API intended to make it feel a touch more "batteries included." Also considering writing a Python version called, of course, ReaPy.
