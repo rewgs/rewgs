@@ -7,7 +7,7 @@ I work for composer [Bear McCreary](https://bearmccreary.com/) and his productio
 I have a few projects of my own in the works:
 
 * [`daws`](https://github.com/rewgs/daws): A Go package for working with any and all DAW to the maximum extent that the DAW offers. Still very much in progress.
-* [`Reaify`](https://github.com/rewgs/reaify): A Lua library for the Reaper API intended to make it feel a touch more "batteries included." Also considering writing a Python version called, of course, ReaPy.
+* [`Reaify`](https://github.com/rewgs/reaify): A Lua library for the Reaper API intended to make it feel a touch more "batteries included."
 * `ReaWrite`: Generates a Python wrapper for the Reaper API from its source.
 * `ReaConform`: Automates conforming cues to new picture.
 * `Cue Queue`: A cross-platform, DAW-agnostic solution for automated stem-printing. Utilizes `daws` under the hood.
