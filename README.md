@@ -1,7 +1,7 @@
 Hey there! I'm Alex Ruger, musician-turned-programmer.
 
 
-I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating our music production pipeline, building and maintaining our servers and other infrastructure, web development, audio plugin and sample library development.
+I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating the music production and asset delivery pipeline, provisioning and maintaining our servers and other infrastructure, web development, and audio plugin and sample library development.
 
 <!-- I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least *part* of the path that'll get us there. In that spirit, here are a few of the projects I'm working on: -->
 <!-- * [`daws`](https://github.com/rewgs/daws): A Go package for working with any and all DAW to the maximum extent that the DAW offers. Still very much in progress. -->
