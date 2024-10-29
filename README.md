@@ -1,6 +1,5 @@
 Hey there! I'm Alex Ruger, musician-turned-programmer.
 
-
 I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating the music production and asset delivery pipeline, provisioning and maintaining our servers and other infrastructure, web development, and audio plugin and sample library development.
 
 <!-- I believe that making music on a computer has a lot of room for improvement, and that utilizing the open source tools and protocols that made the internet great in the first place will provide at least *part* of the path that'll get us there. In that spirit, here are a few of the projects I'm working on: -->
@@ -12,7 +11,7 @@ I work for composer [Bear McCreary](https://bearmccreary.com/) and his productio
 <!-- * `DAW Report`: A crowd-sourced database for DAW/plugin/OS/etc version compatability and stability reports. -->
 <!-- * `Sideman`: A companion app for Digital Performer. Utilizes `daws` under the hood. -->
 
-I'm also a freelance technical consultant, primarily serving composers, music editors, and anyone else who works in audio and needs some help.
+I'm also a freelance technical consultant for musicians and audio pros, and most recently have been providing full-stack web development for [TapeOp](https://tapeop.com/).
 
 **Clients include:**
 * [Danny Elfman](https://www.dannyelfman.com/)
