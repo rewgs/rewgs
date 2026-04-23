@@ -1,4 +1,4 @@
-Hey there! I'm Alex Ruger, musician-turned-developer.
+Hey there! I'm Alex Ruger, composer turned software developer and music technologist.
 
 I work for composer [Bear McCreary](https://bearmccreary.com/) and his production company [Sparks & Shadows](https://sparksandshadows.com/), doing everything from writing internal tools, automating the music production and asset delivery pipeline, provisioning and maintaining our servers and other infrastructure, web development, audio plugin and sample library development, and of course maintaining Bear's Cubase and Vienna Ensemble Pro template.
 
