@@ -11,7 +11,7 @@ I work for composer [Bear McCreary](https://bearmccreary.com/) and his productio
 <!-- * `DAW Report`: A crowd-sourced database for DAW/plugin/OS/etc version compatability and stability reports. -->
 <!-- * `Sideman`: A companion app for Digital Performer. Utilizes `daws` under the hood. -->
 
-I'm also a freelance technical consultant for composers, audio engineers, VFX artists, and any other creatives who use a composer. Most recently, I have been providing full-stack web development services for [TapeOp](https://tapeop.com/) (they even let me write some articles to their peril).
+I'm also a freelance technical consultant for composers, audio engineers, VFX artists, and any other creatives who use a composer. Most recently, I have been providing full-stack web development services for [TapeOp](https://tapeop.com/); they even let me [write articles from time to time](https://tapeop.com/contributors/alex-ruger) (to their peril).
 
 **Clients include:**
 
